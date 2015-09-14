@@ -1,6 +1,6 @@
 ApplicationRaterManager
 
-Version 1.0.0, September 14th, 2015
+Version 1.0.1, September 14th, 2015
 
 Copyright (C) 2015 Raphaël Pinto
 

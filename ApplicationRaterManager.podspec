@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ApplicationRaterManager"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "helpfull methods to open the AppStore application page on the rating page"
 
   s.description  = <<-DESC
@@ -129,7 +129,7 @@ Pod::Spec.new do |s|
   #  where they will only apply to your library. If you depend on other Podspecs
   #  you can include multiple dependencies to ensure it works.
 
-  # s.requires_arc = true
+  s.requires_arc = false
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # s.dependency "JSONKit", "~> 1.4"
